@@ -1,1 +1,1 @@
-# Machine-learning-based-order-size-determination
+This repository is a part of our research which is to train machine learning models for supply chain ordering management. If any of you are adopting the code for future purpose kindly acknowledge the code and its related publication.
